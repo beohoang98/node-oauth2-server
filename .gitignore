@@ -7,8 +7,9 @@
 
 # misc
 npm-debug.log
+# include dist
+!dist/
 # folders
-/dist
 /node_modules
 docs/_build/
 __pycache__/
